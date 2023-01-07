@@ -13,4 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Project404"
-include ':app'
+include ':loginPage'
+include ':test'
